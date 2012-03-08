@@ -1,1 +1,0 @@
-A simple wordpress theme with a sliding sidebar. 
